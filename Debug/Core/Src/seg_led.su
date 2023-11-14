@@ -1,0 +1,10 @@
+seg_led.c:28:6:display	24	static
+seg_led.c:39:6:Display7LED	32	static
+seg_led.c:75:6:initial7LED	4	static
+seg_led.c:85:6:initial_traffic_light	4	static
+seg_led.c:96:6:offallLED	8	static
+seg_led.c:102:6:update7LED	16	static
+seg_led.c:129:6:Scan7LED	8	static
+seg_led.c:133:6:control_traffic_light	16	static
+seg_led.c:139:6:number_set	16	static
+seg_led.c:151:6:initial_led	8	static

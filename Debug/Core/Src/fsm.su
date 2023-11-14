@@ -1,0 +1,7 @@
+fsm.c:43:6:fsm_traffic_light	8	static
+fsm.c:89:6:traffic_light_adjustment	8	static
+fsm.c:107:6:change_value	4	static
+fsm.c:132:6:fsm	8	static
+fsm.c:209:6:button0	8	static
+fsm.c:227:6:button2	8	static
+fsm.c:260:6:button1	8	static
